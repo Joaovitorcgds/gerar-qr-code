@@ -1,0 +1,1 @@
+Gerar qr code
